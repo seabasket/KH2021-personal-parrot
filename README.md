@@ -2,12 +2,11 @@
 A personal message recorder/displayer to help combat loneliness in the hustle of day-to-day life.
 
 <p align = "center">
-Personal Parrot in Action --> https://youtu.be/prRBdDbID60
-
-Built for Knighthacks 2021 by Sebastian Rowe, Rachel Dawns, Evan Fulkerson, and Turner Flynn. 
-The following is taken from our Devpost. (https://devpost.com/software/personal-parrot)
+Video of the Personal Parrot in Action  --> https://youtu.be/prRBdDbID60
 </p>
  
+Built for Knighthacks 2021 by Sebastian Rowe, Rachel Dawns, Evan Fulkerson, and Turner Flynn. 
+The following is taken from our Devpost. (https://devpost.com/software/personal-parrot)
 
 # Inspiration
 Loneliness and isolation have riddled the past few years so our team wanted to bring a little empathy and joy to those who are physically by themselves. Just as Gandalf the Grey says,“I have found that it is the small everyday deed of ordinary folks that keep the darkness at bay.” Together, our team created something to make someone who is in quarantine or just far away from their community feel heard and listened to by those who are closest to them.
