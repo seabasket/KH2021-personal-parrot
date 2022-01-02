@@ -1,6 +1,8 @@
 # KH2021-personal-parrot
 A personal message recorder/displayer to help combat loneliness in the hustle of day-to-day life.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/prRBdDbID60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Built for Knighthacks 2021 by Sebastian Rowe, Rachel Dawns, Evan Fulkerson, and Turner Flynn. 
 The following is taken from our Devpost. (https://devpost.com/software/personal-parrot)
 
