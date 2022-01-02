@@ -2,7 +2,7 @@
 A personal message recorder/displayer to help combat loneliness in the hustle of day-to-day life.
 
 <p align = "center">
-https://youtu.be/prRBdDbID60
+Personal Parrot in Action --> https://youtu.be/prRBdDbID60
 
 Built for Knighthacks 2021 by Sebastian Rowe, Rachel Dawns, Evan Fulkerson, and Turner Flynn. 
 The following is taken from our Devpost. (https://devpost.com/software/personal-parrot)
